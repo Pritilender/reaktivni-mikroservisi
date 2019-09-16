@@ -1,0 +1,15 @@
+{
+  "name": "moleculer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihajlo Ilijic",
+  "license": "ISC",
+  "dependencies": {
+    "moleculer": "^0.13.10",
+    "moleculer-web": "^0.8.5"
+  }
+}
